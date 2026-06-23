@@ -1,3 +1,3 @@
 ## Screenshot
 
-![Desktop](Pictures/screenshotolive.png) 
+![Desktop](screenshotolive.png) 
